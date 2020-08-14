@@ -10,7 +10,7 @@ This package helps you to validate how you mutate your Vuex store. You can say t
 
 This package also has support for any custom schema validator you may choose. You can create your own implementation and extend this package to use that shcema.
 
-Though Vuex allowes you to set the store state directly without calling any mutation. This package won't validate anything outside the mutations mutations.
+Though Vuex allowes you to set the store state directly without calling any mutation. This package won't validate anything outside the mutations.
 
 ## :package: Installation
 
